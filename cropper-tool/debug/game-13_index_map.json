@@ -1,0 +1,402 @@
+[
+  {
+    "n": 1,
+    "side": "w",
+    "file": "output/game-13/game-13_01_w.png"
+  },
+  {
+    "n": 1,
+    "side": "b",
+    "file": "output/game-13/game-13_01_b.png"
+  },
+  {
+    "n": 21,
+    "side": "w",
+    "file": "output/game-13/game-13_21_w.png"
+  },
+  {
+    "n": 21,
+    "side": "b",
+    "file": "output/game-13/game-13_21_b.png"
+  },
+  {
+    "n": 2,
+    "side": "w",
+    "file": "output/game-13/game-13_02_w.png"
+  },
+  {
+    "n": 2,
+    "side": "b",
+    "file": "output/game-13/game-13_02_b.png"
+  },
+  {
+    "n": 22,
+    "side": "w",
+    "file": "output/game-13/game-13_22_w.png"
+  },
+  {
+    "n": 22,
+    "side": "b",
+    "file": "output/game-13/game-13_22_b.png"
+  },
+  {
+    "n": 3,
+    "side": "w",
+    "file": "output/game-13/game-13_03_w.png"
+  },
+  {
+    "n": 3,
+    "side": "b",
+    "file": "output/game-13/game-13_03_b.png"
+  },
+  {
+    "n": 23,
+    "side": "w",
+    "file": "output/game-13/game-13_23_w.png"
+  },
+  {
+    "n": 23,
+    "side": "b",
+    "file": "output/game-13/game-13_23_b.png"
+  },
+  {
+    "n": 4,
+    "side": "w",
+    "file": "output/game-13/game-13_04_w.png"
+  },
+  {
+    "n": 4,
+    "side": "b",
+    "file": "output/game-13/game-13_04_b.png"
+  },
+  {
+    "n": 24,
+    "side": "w",
+    "file": "output/game-13/game-13_24_w.png"
+  },
+  {
+    "n": 24,
+    "side": "b",
+    "file": "output/game-13/game-13_24_b.png"
+  },
+  {
+    "n": 5,
+    "side": "w",
+    "file": "output/game-13/game-13_05_w.png"
+  },
+  {
+    "n": 5,
+    "side": "b",
+    "file": "output/game-13/game-13_05_b.png"
+  },
+  {
+    "n": 25,
+    "side": "w",
+    "file": "output/game-13/game-13_25_w.png"
+  },
+  {
+    "n": 25,
+    "side": "b",
+    "file": "output/game-13/game-13_25_b.png"
+  },
+  {
+    "n": 6,
+    "side": "w",
+    "file": "output/game-13/game-13_06_w.png"
+  },
+  {
+    "n": 6,
+    "side": "b",
+    "file": "output/game-13/game-13_06_b.png"
+  },
+  {
+    "n": 26,
+    "side": "w",
+    "file": "output/game-13/game-13_26_w.png"
+  },
+  {
+    "n": 26,
+    "side": "b",
+    "file": "output/game-13/game-13_26_b.png"
+  },
+  {
+    "n": 7,
+    "side": "w",
+    "file": "output/game-13/game-13_07_w.png"
+  },
+  {
+    "n": 7,
+    "side": "b",
+    "file": "output/game-13/game-13_07_b.png"
+  },
+  {
+    "n": 27,
+    "side": "w",
+    "file": "output/game-13/game-13_27_w.png"
+  },
+  {
+    "n": 27,
+    "side": "b",
+    "file": "output/game-13/game-13_27_b.png"
+  },
+  {
+    "n": 8,
+    "side": "w",
+    "file": "output/game-13/game-13_08_w.png"
+  },
+  {
+    "n": 8,
+    "side": "b",
+    "file": "output/game-13/game-13_08_b.png"
+  },
+  {
+    "n": 28,
+    "side": "w",
+    "file": "output/game-13/game-13_28_w.png"
+  },
+  {
+    "n": 28,
+    "side": "b",
+    "file": "output/game-13/game-13_28_b.png"
+  },
+  {
+    "n": 9,
+    "side": "w",
+    "file": "output/game-13/game-13_09_w.png"
+  },
+  {
+    "n": 9,
+    "side": "b",
+    "file": "output/game-13/game-13_09_b.png"
+  },
+  {
+    "n": 29,
+    "side": "w",
+    "file": "output/game-13/game-13_29_w.png"
+  },
+  {
+    "n": 29,
+    "side": "b",
+    "file": "output/game-13/game-13_29_b.png"
+  },
+  {
+    "n": 10,
+    "side": "w",
+    "file": "output/game-13/game-13_10_w.png"
+  },
+  {
+    "n": 10,
+    "side": "b",
+    "file": "output/game-13/game-13_10_b.png"
+  },
+  {
+    "n": 30,
+    "side": "w",
+    "file": "output/game-13/game-13_30_w.png"
+  },
+  {
+    "n": 30,
+    "side": "b",
+    "file": "output/game-13/game-13_30_b.png"
+  },
+  {
+    "n": 11,
+    "side": "w",
+    "file": "output/game-13/game-13_11_w.png"
+  },
+  {
+    "n": 11,
+    "side": "b",
+    "file": "output/game-13/game-13_11_b.png"
+  },
+  {
+    "n": 31,
+    "side": "w",
+    "file": "output/game-13/game-13_31_w.png"
+  },
+  {
+    "n": 31,
+    "side": "b",
+    "file": "output/game-13/game-13_31_b.png"
+  },
+  {
+    "n": 12,
+    "side": "w",
+    "file": "output/game-13/game-13_12_w.png"
+  },
+  {
+    "n": 12,
+    "side": "b",
+    "file": "output/game-13/game-13_12_b.png"
+  },
+  {
+    "n": 32,
+    "side": "w",
+    "file": "output/game-13/game-13_32_w.png"
+  },
+  {
+    "n": 32,
+    "side": "b",
+    "file": "output/game-13/game-13_32_b.png"
+  },
+  {
+    "n": 13,
+    "side": "w",
+    "file": "output/game-13/game-13_13_w.png"
+  },
+  {
+    "n": 13,
+    "side": "b",
+    "file": "output/game-13/game-13_13_b.png"
+  },
+  {
+    "n": 33,
+    "side": "w",
+    "file": "output/game-13/game-13_33_w.png"
+  },
+  {
+    "n": 33,
+    "side": "b",
+    "file": "output/game-13/game-13_33_b.png"
+  },
+  {
+    "n": 14,
+    "side": "w",
+    "file": "output/game-13/game-13_14_w.png"
+  },
+  {
+    "n": 14,
+    "side": "b",
+    "file": "output/game-13/game-13_14_b.png"
+  },
+  {
+    "n": 34,
+    "side": "w",
+    "file": "output/game-13/game-13_34_w.png"
+  },
+  {
+    "n": 34,
+    "side": "b",
+    "file": "output/game-13/game-13_34_b.png"
+  },
+  {
+    "n": 15,
+    "side": "w",
+    "file": "output/game-13/game-13_15_w.png"
+  },
+  {
+    "n": 15,
+    "side": "b",
+    "file": "output/game-13/game-13_15_b.png"
+  },
+  {
+    "n": 35,
+    "side": "w",
+    "file": "output/game-13/game-13_35_w.png"
+  },
+  {
+    "n": 35,
+    "side": "b",
+    "file": "output/game-13/game-13_35_b.png"
+  },
+  {
+    "n": 16,
+    "side": "w",
+    "file": "output/game-13/game-13_16_w.png"
+  },
+  {
+    "n": 16,
+    "side": "b",
+    "file": "output/game-13/game-13_16_b.png"
+  },
+  {
+    "n": 36,
+    "side": "w",
+    "file": "output/game-13/game-13_36_w.png"
+  },
+  {
+    "n": 36,
+    "side": "b",
+    "file": "output/game-13/game-13_36_b.png"
+  },
+  {
+    "n": 17,
+    "side": "w",
+    "file": "output/game-13/game-13_17_w.png"
+  },
+  {
+    "n": 17,
+    "side": "b",
+    "file": "output/game-13/game-13_17_b.png"
+  },
+  {
+    "n": 37,
+    "side": "w",
+    "file": "output/game-13/game-13_37_w.png"
+  },
+  {
+    "n": 37,
+    "side": "b",
+    "file": "output/game-13/game-13_37_b.png"
+  },
+  {
+    "n": 18,
+    "side": "w",
+    "file": "output/game-13/game-13_18_w.png"
+  },
+  {
+    "n": 18,
+    "side": "b",
+    "file": "output/game-13/game-13_18_b.png"
+  },
+  {
+    "n": 38,
+    "side": "w",
+    "file": "output/game-13/game-13_38_w.png"
+  },
+  {
+    "n": 38,
+    "side": "b",
+    "file": "output/game-13/game-13_38_b.png"
+  },
+  {
+    "n": 19,
+    "side": "w",
+    "file": "output/game-13/game-13_19_w.png"
+  },
+  {
+    "n": 19,
+    "side": "b",
+    "file": "output/game-13/game-13_19_b.png"
+  },
+  {
+    "n": 39,
+    "side": "w",
+    "file": "output/game-13/game-13_39_w.png"
+  },
+  {
+    "n": 39,
+    "side": "b",
+    "file": "output/game-13/game-13_39_b.png"
+  },
+  {
+    "n": 20,
+    "side": "w",
+    "file": "output/game-13/game-13_20_w.png"
+  },
+  {
+    "n": 20,
+    "side": "b",
+    "file": "output/game-13/game-13_20_b.png"
+  },
+  {
+    "n": 40,
+    "side": "w",
+    "file": "output/game-13/game-13_40_w.png"
+  },
+  {
+    "n": 40,
+    "side": "b",
+    "file": "output/game-13/game-13_40_b.png"
+  }
+]
